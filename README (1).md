@@ -2,196 +2,196 @@ Activity A
 Preparation and Research
 Hardware and Software Applications
 
-☐ Research relevant hardware used in the system
+- [ ] Research relevant hardware used in the system
 
-  ☐ Servers
+  - [ ] Servers
 
-  ☐ User devices (phones, tablets, laptops, kiosks)
+  - [ ] User devices (phones, tablets, laptops, kiosks)
 
-  ☐ Payment terminals
+  - [ ] Payment terminals
 
-  ☐ Sensors or IoT devices
+  - [ ] Sensors or IoT devices
 
-  ☐ AR/VR hardware if applicable
+  - [ ] AR/VR hardware if applicable
 
-☐ Research relevant software used in the system
+- [ ] Research relevant software used in the system
 
-  ☐ Web development frameworks
+  - [ ] Web development frameworks
 
-  ☐ Content Management Systems (CMS)
+  - [ ] Content Management Systems (CMS)
 
-  ☐ Databases (SQL / NoSQL)
+  - [ ] Databases (SQL / NoSQL)
 
-  ☐ APIs and integrations
+  - [ ]APIs and integrations
 
-  ☐ Accessibility tools
+  - [ ] Accessibility tools
 
-  ☐ Security software
+  - [ ]Security software
 
-☐ Identify how hardware and software work together within the system
+- [ ]Identify how hardware and software work together within the system
 
 Emerging Technologies
 
-☐ Research Artificial Intelligence
+- [ ]Research Artificial Intelligence
 
-Chatbots
+- [ ]Chatbots
 
-Recommendation systems
+- [ ]Recommendation systems
 
-Automated customer support
+- [ ]Automated customer support
 
-☐ Research Machine Learning Algorithms
+- [ ]Research Machine Learning Algorithms
 
-Predicting user behaviour
+- [ ]Predicting user behaviour
 
-Personalisation of content
+- [ ]Personalisation of content
 
-Data analysis
+- [ ]Data analysis
 
-☐ Research Augmented Reality
+- [ ]Research Augmented Reality
 
-Interactive tourism experiences
+- [ ]Interactive tourism experiences
 
-AR navigation
+- [ ]AR navigation
 
-Visual overlays for products or locations
+- [ ]Visual overlays for products or locations
 
-☐ Research Blockchain Technology
+- [ ]Research Blockchain Technology
 
-Secure and transparent transactions
+- [ ]Secure and transparent transactions
 
-Decentralised record keeping
+- [ ]Decentralised record keeping
 
-☐ Research Smart Contracts
+- [ ]Research Smart Contracts
 
-Automated agreements
+- [ ]Automated agreements
 
-Triggered actions when conditions are met
+- [ ]Triggered actions when conditions are met
 
-☐ Research Voice Control
+- [ ]Research Voice Control
 
-Voice search functionality
+- [ ]Voice search functionality
 
-Voice accessibility features
+- [ ]Voice accessibility features
 
-☐ Research Robotics
+- [ ]Research Robotics
 
-Automated customer service systems
+- [ ]Automated customer service systems
 
-Physical automation within industries
+- [ ]Physical automation within industries
 
-☐ Research Contactless Payments
+- [ ]Research Contactless Payments
 
-NFC payments
+- [ ]NFC payments
 
-Mobile wallet integration
+- [ ]Mobile wallet integration
 
-Secure digital payment systems
+- [ ]Secure digital payment systems
 
-Meeting Diverse User Needs
+- [ ]Meeting Diverse User Needs
 
-☐ Identify different types of users
+- [ ]Identify different types of users
 
-Technical users
+- [ ]Technical users
 
-Non-technical users
+- [ ]Non-technical users
 
-People with disabilities
+- [ ]People with disabilities
 
-Mobile users
+- [ ]Mobile users
 
-Older users
+- [ ]Older users
 
-☐ Consider accessibility needs
+- [ ]Consider accessibility needs
 
-Screen reader compatibility
+- [ ]Screen reader compatibility
 
-Text-to-speech features
+- [ ]Text-to-speech features
 
-Adjustable font sizes
+- [ ]Adjustable font sizes
 
-High contrast colour schemes
+- [ ]High contrast colour schemes
 
-Clear navigation
+- [ ]Clear navigation
 
-☐ Consider different devices
+- [ ]Consider different devices
 
-Mobile phones
+- [ ]Mobile phones
 
-Tablets
+- [ ]Tablets
 
-Desktop computers
+- [ ]Desktop computers
 
-Assistive devices
+- [ ]Assistive devices
 
-Industry Specific Guidelines
+- [ ]Industry Specific Guidelines
 
-☐ Follow web development best practices
+- [ ] Follow web development best practices
 
-☐ Follow accessibility standards (WCAG)
+- [ ]Follow accessibility standards (WCAG)
 
-☐ Follow cyber security best practices
+- [ ] Follow cyber security best practices
 
-☐ Follow data protection regulations
+- [ ] Follow data protection regulations
 
-☐ Follow industry design standards
+- [ ] Follow industry design standards
 
-Research Process
+- [ ]Research Process
 
-☐ Use credible sources
+- [ ] Use credible sources
 
-Industry reports
+- [ ]Industry reports
 
-Official documentation
+- [ ]Official documentation
 
-Technology blogs
+- [ ]Technology blogs
 
-Academic sources
+- [ ]Academic sources
 
-Government websites
+- [ ]Government websites
 
-☐ Organise notes under clear headings
+- [ ] Organise notes under clear headings
 
-☐ Keep notes factual
+- [ ] Keep notes factual
 
-Avoid opinions or analysis
+- [ ]Avoid opinions or analysis
 
-☐ Include security considerations
+- [ ] Include security considerations
 
-Data encryption
+- [ ] Data encryption
 
-Secure authentication
+- [ ]Secure authentication
 
-Protection against cyber attacks
+- [ ]Protection against cyber attacks
 
-☐ Identify relevant laws and regulations
+- [ ] Identify relevant laws and regulations
 
-Researching Existing Systems
+- [ ] Researching Existing Systems
 
-☐ Analyse similar websites or systems
+- [ ] Analyse similar websites or systems
 
-☐ Identify how they meet user needs
+- [ ] Identify how they meet user needs
 
-☐ Record examples of:
+- [ ] Record examples of:
 
-Good navigation
+- [ ] Good navigation
 
-Accessibility features
+- [ ] Accessibility features
 
-Interactive elements
+- [ ] Interactive elements
 
-Security features
+- [ ] Security features
 
-☐ Include:
+- [ ] Include:
 
-Screenshots
+- [ ] Screenshots
 
-Links to the websites
+- [ ] Links to the websites
 
-Notes explaining their features
+- [ ] Notes explaining their features
 
-Business Context
-Client Brief Review
+- [ ] Business Context
+- [ ] Client Brief Review
 
 ☐ Read the client brief carefully
 
