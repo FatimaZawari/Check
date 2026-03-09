@@ -4,29 +4,29 @@ Hardware and Software Applications
 
 ☐ Research relevant hardware used in the system
 
-Servers
+  ☐ Servers
 
-User devices (phones, tablets, laptops, kiosks)
+  ☐ User devices (phones, tablets, laptops, kiosks)
 
-Payment terminals
+  ☐ Payment terminals
 
-Sensors or IoT devices
+  ☐ Sensors or IoT devices
 
-AR/VR hardware if applicable
+  ☐ AR/VR hardware if applicable
 
 ☐ Research relevant software used in the system
 
-Web development frameworks
+  ☐ Web development frameworks
 
-Content Management Systems (CMS)
+  ☐ Content Management Systems (CMS)
 
-Databases (SQL / NoSQL)
+  ☐ Databases (SQL / NoSQL)
 
-APIs and integrations
+  ☐ APIs and integrations
 
-Accessibility tools
+  ☐ Accessibility tools
 
-Security software
+  ☐ Security software
 
 ☐ Identify how hardware and software work together within the system
 
