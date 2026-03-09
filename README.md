@@ -1,11 +1,3 @@
-Got it — the issue is that **GitHub Markdown is picky**, and when copying from chat it can break spacing.
-The safest way is to use **pure Markdown with simple indentation and no weird blocks**.
-
-Below is a **clean GitHub-safe version**.
-You can paste this **directly into a `.md` file or GitHub README** and it will render correctly.
-
----
-
 # T-Level Digital Production – Exam Reference Checklist
 
 ---
